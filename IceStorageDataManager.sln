@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceStorageDataManager", "Ic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProviderUtil", "DataProviderUtil\DataProviderUtil.csproj", "{8C619CE3-631A-460B-8621-0863C8C3D882}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "数据库", "数据库", "{025E9B6B-D0F6-4CEC-80F5-AEC3E4905585}"
+	ProjectSection(SolutionItems) = preProject
+		DatabaseFile\storage.db3 = DatabaseFile\storage.db3
+		DatabaseFile\storage.db3-journal = DatabaseFile\storage.db3-journal
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
