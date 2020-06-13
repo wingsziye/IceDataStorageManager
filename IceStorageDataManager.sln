@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceStorageDataManager", "IceStorageDataManager\IceStorageDataManager.csproj", "{BC4E4BDE-349B-4F25-9AAD-374B4A7F7669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProviderUtil", "DataProviderUtil\DataProviderUtil.csproj", "{8C619CE3-631A-460B-8621-0863C8C3D882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4E4BDE-349B-4F25-9AAD-374B4A7F7669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4E4BDE-349B-4F25-9AAD-374B4A7F7669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4E4BDE-349B-4F25-9AAD-374B4A7F7669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4E4BDE-349B-4F25-9AAD-374B4A7F7669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C619CE3-631A-460B-8621-0863C8C3D882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C619CE3-631A-460B-8621-0863C8C3D882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C619CE3-631A-460B-8621-0863C8C3D882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C619CE3-631A-460B-8621-0863C8C3D882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9529547-48A1-4400-8A83-273A57D35E2D}
+	EndGlobalSection
+EndGlobal
